@@ -1,0 +1,11 @@
+{
+  "name": "plan-checklist",
+  "owner": { "name": "Abhishek Jain" },
+  "plugins": [
+    {
+      "name": "plan-checklist",
+      "source": "./",
+      "description": "Save a plan or open work as a persistent markdown checklist, and resume it in a later session."
+    }
+  ]
+}

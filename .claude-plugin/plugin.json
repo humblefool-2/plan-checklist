@@ -1,0 +1,8 @@
+{
+  "name": "plan-checklist",
+  "description": "Save a plan or open work as a persistent markdown checklist, and resume it in a later session.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": { "name": "Abhishek Jain" },
+  "keywords": ["checklist", "planning", "skill", "workflow"]
+}
