@@ -5,7 +5,7 @@
     {
       "name": "plan-checklist",
       "source": "./",
-      "description": "Save a plan or open work as a persistent markdown checklist, and resume it in a later session."
+      "description": "A Claude skill that saves a plan or open work as a persistent markdown checklist and resumes it in a later session."
     }
   ]
 }

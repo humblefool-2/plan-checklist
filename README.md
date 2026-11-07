@@ -1,6 +1,6 @@
 # plan-checklist
 
-A Claude Code skill. It saves a plan, or the open work of a conversation, as a markdown checklist in your project. Later, in a new session, it resumes work from that file.
+A Claude skill. It saves a plan, or the open work of a conversation, as a markdown checklist in your project. Later, in a new session, it resumes work from that file.
 
 Use it when work spans more than one session. The checklist keeps the context, the finished steps, and the next step. You do not need to explain the task again.
 
@@ -57,7 +57,7 @@ For one project only, copy it to `<project>/.claude/skills/` instead.
 /plugin install plan-checklist@plan-checklist
 ```
 
-Restart Claude Code after you install.
+Restart Claude or Claude Code after you install.
 
 ## Usage
 
